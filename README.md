@@ -23,17 +23,7 @@ This Flask web application classifies images into one of ten categories from the
 - Flask
 - TensorFlow
 - HTML/CSS
-- Bootstrap (optional for styling)
-
-project-folder/
-│
-├── app.py                  
-├── requirements.txt        
-├── static/                 
-│   └── style.css           
-└── templates/              
-    ├── home.html          
-    └── result.html        
+- Bootstrap (optional for styling)       
 
 ## Installation
 

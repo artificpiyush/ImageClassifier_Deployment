@@ -25,6 +25,16 @@ This Flask web application classifies images into one of ten categories from the
 - HTML/CSS
 - Bootstrap (optional for styling)
 
+project-folder/
+│
+├── app.py                  
+├── requirements.txt        
+├── static/                 
+│   └── style.css           
+└── templates/              
+    ├── home.html          
+    └── result.html        
+
 ## Installation
 
 1. Clone the repository:
